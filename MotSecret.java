@@ -1,6 +1,6 @@
 import java.util.*;
 
-// Devoir 2 -- Lucas G
+// Loux14
 
 public class MotSecret{
     // version qui utilise les lettres majuscules de A à F
